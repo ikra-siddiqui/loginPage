@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">loginPage</string>
+    <string name="email">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="sign_up">SignUp</string>
+    <string name="don_t_have_an_account">Don\'t have an account?\n</string>
+    <string name="food"> Foodie</string>
+    <string name="about">Welcome Back in Foodie</string>
+</resources>
